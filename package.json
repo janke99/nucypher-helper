@@ -1,0 +1,17 @@
+{
+  "name": "nucypher-helper",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "Disperse": "export NODE_ENV=Disperse&&node Disperse.js",
+    "nucypher": "export NODE_ENV=nucypher&&node nucypher.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bignumber.js": "^9.0.1",
+    "config": "^3.3.2",
+    "web3": "^1.3.0"
+  }
+}

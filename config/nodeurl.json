@@ -1,0 +1,6 @@
+{
+    "node": {
+        "ws": "wss://mainnet.infura.io/ws/v3/b4da31c0a71d4a1f8dd0017de2e7e702",
+        "http": "https://mainnet.infura.io/v3/b4da31c0a71d4a1f8dd0017de2e7e702"
+    }
+}

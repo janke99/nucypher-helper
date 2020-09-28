@@ -1,0 +1,15 @@
+{
+    "account": {
+        "address": "0x1111",
+        "privateKey": "0x1111"
+    },
+
+    "disperse": {
+        "accounts": [
+            "...."
+        ],
+        "value": 5.1,
+        "gasPrice": 108,
+        "gas": 1000000
+    }
+}

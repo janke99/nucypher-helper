@@ -1,0 +1,10 @@
+{
+    "accounts": [
+        {
+            "address": "0x1111",
+            "privateKey": "0x1111"
+        }
+    ],
+    "gas": 100000,
+    "gasPrice": 110
+}
