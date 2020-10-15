@@ -1,0 +1,10 @@
+{
+    // 账号地址和私钥
+    "accounts": [{
+        "address": "0x1111",
+        "privateKey": "1111"
+    }],
+    // 指定gas和gasprice
+    "gas": 100000,
+    "gasPrice": 110
+}

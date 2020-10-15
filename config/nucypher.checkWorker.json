@@ -1,0 +1,12 @@
+{
+    // 账号地址和私钥
+    "accounts": [
+
+    ],
+    "stacker": ["111",
+        "111"
+    ],
+    // 指定gas和gasprice
+    "gas": 500000,
+    "gasPrice": 60
+}

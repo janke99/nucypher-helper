@@ -1,15 +1,16 @@
 {
+    // 转出账户地址与私钥
     "account": {
-        "address": "0x1111",
-        "privateKey": "0x1111"
+        "address": "111",
+        "privateKey": "111"
     },
-
+    // 目标账户地址列表
     "disperse": {
         "accounts": [
-            "...."
+            "111"
         ],
-        "value": 5.1,
-        "gasPrice": 108,
+        "value": 0.5,
+        "gasPrice": 60,
         "gas": 1000000
     }
 }

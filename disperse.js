@@ -10,7 +10,7 @@ class Disperse_app {
         this.web3 = new Web3(new Web3.providers.HttpProvider(nodeurl.node.http));
         this.web3.eth.defaultAccount = config.account.address;
         this.web3.eth.accounts.wallet.add({
-            privateKey: config.account.privateKey,
+            privateKey: '0x' + config.account.privateKey,
             address: config.account.address,
         });
     }
